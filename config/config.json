@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2c37Cfd0Bde423e88b4AC0E9Cd441a6e14fDdaa8",
+  "SCAN_LINK": "https://polygonscan.com/tx/0xf0b86fc296288236d218289f2f4e53182c97b64d501f24224c8db56f8827d438",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Naokomama_Musuko",
+  "SYMBOL": "NM",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/naokomama-musuko",
+  "SHOW_BACKGROUND": true
+}
